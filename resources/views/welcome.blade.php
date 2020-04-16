@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>1906SHOP</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
@@ -90,7 +90,7 @@
                 </div>
                 <hr>
                 <div>
-                    <button style="color:red">点我退出</button>
+                    <a href="http://passport.1906.com/user/logout"><button style="color:red">点我退出</button></a>
                 </div>
             </div>
         </div>
