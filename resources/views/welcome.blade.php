@@ -85,12 +85,12 @@
                 </div>
 
                 <div class="links">
-                    <a href="http://passport.1906.com/user/login">LOGIN</a>
-                    <a href="http://passport.1906.com/user/reg">REGISTER</a>
+                    <a href="https://1906passport.toptwo.top/user/login">LOGIN</a>
+                    <a href="https://1906passport.toptwo.top/user/reg">REGISTER</a>
                 </div>
                 <hr>
                 <div>
-                    <a href="http://passport.1906.com/user/logout"><button style="color:red">点我退出</button></a>
+                    <a href="https://1906passport.toptwo.top/user/logout"><button style="color:red">点我退出</button></a>
                 </div>
             </div>
         </div>
