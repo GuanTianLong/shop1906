@@ -89,9 +89,6 @@
                     <a href="https://1906passport.toptwo.top/user/reg">REGISTER</a>
                 </div>
                 <hr>
-                <div>
-                    <a href="https://1906passport.toptwo.top/user/logout"><button style="color:red">点我退出</button></a>
-                </div>
             </div>
         </div>
     </body>
